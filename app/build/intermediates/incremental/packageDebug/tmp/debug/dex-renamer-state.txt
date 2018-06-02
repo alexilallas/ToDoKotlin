@@ -1,0 +1,4 @@
+#Fri Jun 01 20:46:15 GMT-03:00 2018
+base.0=C\:\\Users\\alexi\\AndroidStudioProjects\\ToDoListKotlin\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\68
+path.0=classes.dex
+renamed.0=classes.dex
